@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Platforms
   - DissPlat
+  - Lazer
+  - FallingBalls
+  - WinCube
   layers:
   - Default
   - TransparentFX
